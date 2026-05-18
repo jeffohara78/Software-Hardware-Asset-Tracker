@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\bin\Debug\net8.0\SoftwareHardwareAssetTracker.exe
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\bin\Debug\net8.0\SoftwareHardwareAssetTracker.deps.json
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\bin\Debug\net8.0\SoftwareHardwareAssetTracker.runtimeconfig.json
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\bin\Debug\net8.0\SoftwareHardwareAssetTracker.dll
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\bin\Debug\net8.0\SoftwareHardwareAssetTracker.pdb
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.dll
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\refint\SoftwareHardwareAssetTracker.dll
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.pdb
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\SoftwareHardwareAssetTracker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker\obj\Debug\net8.0\ref\SoftwareHardwareAssetTracker.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareHardwareAssetTracker", "SoftwareHardwareAssetTracker\SoftwareHardwareAssetTracker.csproj", "{FEB208BD-3AB0-4161-A96E-7076E83EE325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB208BD-3AB0-4161-A96E-7076E83EE325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB208BD-3AB0-4161-A96E-7076E83EE325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB208BD-3AB0-4161-A96E-7076E83EE325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB208BD-3AB0-4161-A96E-7076E83EE325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42697C32-4232-4E5C-A328-B9CD1471BA6F}
+	EndGlobalSection
+EndGlobal
